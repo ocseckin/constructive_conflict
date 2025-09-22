@@ -223,3 +223,4 @@ additional_analysis/
 *.csv
 *.pkl
 *.txt
+*.parquet
